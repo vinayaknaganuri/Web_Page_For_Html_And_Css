@@ -1,0 +1,194 @@
+.body
+{
+    width: 100%;
+    position: absolute;
+}
+.col1
+{
+    background-color: lemonchiffon;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.png
+{
+    position: relative;
+    padding-top: 10px;
+    width: 170px;
+
+    
+}
+
+.label
+{
+    position: absolute;
+    padding-top: 70px;
+    padding-left: 10px;
+    font-size: 38px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.esp
+{
+    padding-top: 10px;
+    
+}
+
+.frst
+{
+    position: absolute;
+    padding-left:50;
+    padding-top: 75px;
+    width: 400px;
+    height: 300px;
+
+}
+
+.text
+{
+    position: absolute;
+    padding: 100px;
+    font-size: 32px;
+    text-align: justify;
+    padding-left: 550px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.wrk
+{
+   position: absolute;
+   padding-top: 550px;
+   padding-left: 5px;
+   width: 600px;
+   
+}
+.what
+{
+    position: absolute;
+    padding-top: 470px;
+    padding-left: 450px;
+    font-size: 39px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.home
+{
+    position: absolute;
+    padding-top: 550px;
+    text-align: justify;
+    font-size: 24px;
+    padding-right: 600px;
+    padding-left: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.IOT
+{
+    position: absolute;
+    width: 580px;
+
+    padding-top: 550px;
+    padding-left: 760px;
+}
+
+.photo
+{
+    position: absolute;
+    font-size: 50px;
+    padding-left: 560px;
+    padding-top: 1000px;
+}
+
+.photo01
+{
+    position: absolute;
+    width: 550px;
+    padding-top: 1100px;
+    padding-left: 50px;
+}
+
+.photo02
+{
+    position: absolute;
+    width: 575px;
+    padding-left: 750px;
+    padding-top: 1105px;
+    
+}
+
+
+.Contact
+{
+    position: absolute;
+    font-size: 55px;
+    padding-top: 1600px;
+    padding-left: 50px;
+}
+
+.whatsapp
+{
+    position: absolute;
+    padding-top:1690px ;
+    padding-left: 50px;
+}
+
+.Number
+{
+    position: absolute;
+    padding-top:1695px ;
+    padding-left: 120px;
+    font-size: 30px;
+}
+
+.hoo
+{
+
+    position: absolute;
+    padding-top:1670px;
+    width: 70px;
+    padding-left: 450px;
+    
+}
+
+.email
+{
+    padding-top:1690px;
+    position: absolute;
+    font-size: 30px;
+    padding-left: 530px;
+    
+}
+
+.GitHub1
+{
+    position: absolute;
+    width: 100px;
+    padding-top: 1670px;
+    padding-left: 880px;
+   
+}
+
+.GitHub_name
+{
+    position: absolute;
+    font-size: 30px;
+    padding-top: 1690px;
+    padding-left: 980px;
+}
+
+.registration
+{
+    font-size: 45px;
+    position: absolute;
+    padding-top: 1480px;
+    padding-left: 360px;
+}
+
+
+.apply
+{
+    width: 135px;
+    height: 45px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: cadetblue;
+    background-color: rgb(red, green, blue);
+    border-radius: 10px;
+}
